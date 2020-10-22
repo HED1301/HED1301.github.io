@@ -1,6 +1,6 @@
 ## Welcome Hector Star
 
-[[https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2018/08/F3322222222222.jpg]]
+![machine learning](https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2018/08/F3322222222222.jpg)
 
 ### AIOS
 Un sistema operativo de inteligencia artificial (AIOS) es una forma de software del sistema que administra los recursos de hardware y software de la computadora y proporciona servicios comunes para programas de computadora a través de la inteligencia artificial general. El sistema operativo AI es un componente del software del sistema en un sistema informático.
